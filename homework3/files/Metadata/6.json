@@ -1,0 +1,12 @@
+{
+    "name": "MasterzDev Cats",
+    "description": "Cats & food",
+    "image":"ipfs://QmcNZtosd1A85iQg3mapPtDiJmmYsv7KZJoPU9GWvM6HNU/food1.jpeg",
+    "attributes": [
+        {
+        "trait_type": "Type",
+        "value": "kibble"
+        }
+        
+    ]
+}

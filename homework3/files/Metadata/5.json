@@ -1,0 +1,15 @@
+{
+    "name": "MasterzDev Cats",
+    "description": "Cats on another Cat",
+    "image":"ipfs://QmcNZtosd1A85iQg3mapPtDiJmmYsv7KZJoPU9GWvM6HNU/Cats5.jpeg",
+    "attributes": [
+        {
+        "trait_type": "Background",
+        "value": "Space and Planets"
+        },
+        {
+        "trait_type": "Fur",
+        "value": "Gray and white"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "MasterzDev Cats",
+    "description": "Space Cats",
+    "image":"ipfs://QmcNZtosd1A85iQg3mapPtDiJmmYsv7KZJoPU9GWvM6HNU/Cats2.jpeg",
+    "attributes": [
+        {
+        "trait_type": "Background",
+        "value": "Some Planets and Mountains"
+        },
+        {
+        "trait_type": "Fur",
+        "value": "Gray and white"
+        }
+    ]
+}

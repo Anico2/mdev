@@ -1,0 +1,15 @@
+{
+    "name": "MasterzDev Cats",
+    "description": "Astronaut Cat",
+    "image":"ipfs://QmcNZtosd1A85iQg3mapPtDiJmmYsv7KZJoPU9GWvM6HNU/Cats3.jpeg",
+    "attributes": [
+        {
+        "trait_type": "Background",
+        "value": "Space"
+        },
+        {
+        "trait_type": "Fur",
+        "value": "White"
+        }
+    ]
+}
